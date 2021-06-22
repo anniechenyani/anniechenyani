@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://anniechenyani.github.io/anniechenyani/precache-manifest.32f89a0c587530377f78512a1f28f49a.js"
+  "https://anniechenyani.github.io/anniechenyani/precache-manifest.67516e735181d6255c9f197b3248ebc1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "person-page"});
