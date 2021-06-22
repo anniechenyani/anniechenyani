@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97ef28abbe57c9a8916d",
+    "revision": "1401c6dde4ad6a5bd76f",
     "url": "https://anniechenyani.github.io/anniechenyani/css/app.fa6bf009.css"
   },
   {
@@ -932,12 +932,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://anniechenyani.github.io/anniechenyani/image/9@2x.png"
   },
   {
-    "revision": "276f4b29c62994559d7a4035e632c805",
+    "revision": "6453cbd8d7ee105f40cfbe42cd046f57",
     "url": "https://anniechenyani.github.io/anniechenyani/index.html"
   },
   {
-    "revision": "97ef28abbe57c9a8916d",
-    "url": "https://anniechenyani.github.io/anniechenyani/js/app.8b57c607.js"
+    "revision": "1401c6dde4ad6a5bd76f",
+    "url": "https://anniechenyani.github.io/anniechenyani/js/app.de293a00.js"
   },
   {
     "revision": "1b351184fc977d24a90d",
